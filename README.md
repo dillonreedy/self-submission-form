@@ -24,3 +24,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Workflows
+### Demo of Successfully Inputting in User information
+Below is a demonstration of a user inputting their first name, last name, and address in to the appropriate fields.
+![A demo of successful workflow](https://github.com/dillonreedy/self-submission-form/blob/master/demo_gifs/success_workflow.gif)
+
+### Demo of Invalid Input by User
+Below is a demonstration of a user inputting their first name and address, but they do not put in the required field Last Name resulting in the feedback displayed.
+![A demo of an error workflow](https://github.com/dillonreedy/self-submission-form/blob/master/demo_gifs/error_workflow.gif)
